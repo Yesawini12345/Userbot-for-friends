@@ -112,7 +112,7 @@ Please give me a star 🌟 and fork
     - Now Run StringSession Given Below:
    
 
-[![String][https://te.legra.ph/file/50b92623c011266c373da.jpg](@Decode_String_bot) 
+[String][@Decode_String_bot]
 
     - Click On Generate String
     - Then Click On Green Run Button.
