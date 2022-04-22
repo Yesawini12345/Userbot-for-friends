@@ -1,5 +1,5 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
+  "name": "LEGENDBOT",
   "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ YESAWINIYUVARAJ. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/50b92623c011266c373da.jpg",
   "keywords": [
@@ -147,7 +147,7 @@
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running 
-#main.py ",@Decode_String_bot
+#main.py ",https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py
       "value": ""
     },
     "HEROKU_API_KEY": {
